@@ -1,4 +1,4 @@
-# Machine-Learning-Artificial-Neural-Networks
+# Machine Learning Artificial Neural Networks
 
 This project aims to predict customer churn using a neural network model. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop using a service or leave a business. In this project, we leverage machine learning techniques to predict whether a customer is likely to churn based on various features and historical data.
 
